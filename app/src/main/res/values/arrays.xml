@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_order_by_labels">
+        <item>@string/Top</item>
+        <item>@string/science</item>
+        <item>@string/Technology</item>
+        <item>@string/sports</item>
+        <item>@string/Health</item>
+        <item>@string/Business</item>
+        <item>@string/entertainment</item>
+    </string-array>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NEWS app By DN jivani</string>
+    <string name="No_news">No news appear</string>
+
+    //for filters
+
+    <string name="catogary">top</string>
+
+    <string name="Top">general</string>
+    <string name="Business">business</string>
+    <string name="science">science</string>
+    <string name="Technology">technology</string>
+    <string name="sports">sports</string>
+    <string name="entertainment">entertainment</string>
+    <string name="Health">health</string>
+
+    <string name="settings_catogary_key" translatable="false">catogary key</string>
+    <string name="menu_refresh">mainmanu</string>
+</resources>

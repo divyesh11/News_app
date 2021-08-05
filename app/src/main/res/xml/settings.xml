@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="Filters">
+
+    <ListPreference
+        android:defaultValue="@string/Top"
+        android:entries="@array/settings_order_by_labels"
+        android:entryValues="@array/settings_order_by_labels"
+        android:key="@string/settings_catogary_key"
+        android:title="Choose Catogary" />
+
+</PreferenceScreen>
